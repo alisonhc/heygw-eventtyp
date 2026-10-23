@@ -1,0 +1,2 @@
+# Data and code for the paper Hey, guess what: CUES lead to inferences about typicality
+Currently, this repo is under construction. The experiment data is under the `data` folder, but we are working on adding more data as well as processing and experiment code. In the meantime, please reach out Alison with any questions or data requests.
